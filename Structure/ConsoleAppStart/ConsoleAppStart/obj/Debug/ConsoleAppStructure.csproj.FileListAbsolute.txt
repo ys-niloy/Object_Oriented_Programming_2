@@ -1,0 +1,8 @@
+C:\Users\ysnil\Downloads\ConsoleAppStart\ConsoleAppStart\bin\Debug\ConsoleAppStart.exe.config
+C:\Users\ysnil\Downloads\ConsoleAppStart\ConsoleAppStart\bin\Debug\ConsoleAppStart.exe
+C:\Users\ysnil\Downloads\ConsoleAppStart\ConsoleAppStart\bin\Debug\ConsoleAppStart.pdb
+C:\Users\ysnil\Downloads\ConsoleAppStart\ConsoleAppStart\obj\Debug\ConsoleAppStructure.csproj.AssemblyReference.cache
+C:\Users\ysnil\Downloads\ConsoleAppStart\ConsoleAppStart\obj\Debug\ConsoleAppStructure.csproj.SuggestedBindingRedirects.cache
+C:\Users\ysnil\Downloads\ConsoleAppStart\ConsoleAppStart\obj\Debug\ConsoleAppStructure.csproj.CoreCompileInputs.cache
+C:\Users\ysnil\Downloads\ConsoleAppStart\ConsoleAppStart\obj\Debug\ConsoleAppStart.exe
+C:\Users\ysnil\Downloads\ConsoleAppStart\ConsoleAppStart\obj\Debug\ConsoleAppStart.pdb
